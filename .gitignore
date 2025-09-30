@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 .DS_Store
 .Rproj.user
+data/data.grib
+data/data.grib.5b7b6.idx
