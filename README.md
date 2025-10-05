@@ -50,9 +50,8 @@ The course bridges meteorology and artificial intelligence — ideal for student
 
 | Folder | Description |
 |--------|--------------|
-| `/slides` | Lecture slides in PowerPoint format (e.g., `D1C1_LR_NNs.pptx`) |
+| `/slides` | Lecture slides in PowerPoint format (e.g., `D1C1_LR_NNs.pptx`) and 'by hand' worksheets |
 | `/code` | Python scripts and Jupyter notebooks for coding labs |
-| `/worksheets` | PDF worksheets adapted from **AI by Hand** by Tom Yeh |
 | `/setup` | Installation instructions and requirements files for Linux and Windows |
 | `/data` | Example datasets for exercises (ERA5, Anemoi samples, etc.) |
 
