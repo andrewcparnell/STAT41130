@@ -166,3 +166,7 @@ slides/day 4/~$D4C1_GNNs.pptx
 slides/day 4/~$D4C2_ProbNNs.pptx
 slides/day 1/~$D1C1_LR_NNs.pptx
 slides/day 3/~$D3C2_Transformers.pptx
+
+# Wandb files
+wandb/
+*.pt
