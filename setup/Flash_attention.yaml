@@ -1,0 +1,9 @@
+# setup
+git clone git@github.com:cathalobrien/get-flash-attn.git
+cd get-flash-attn
+
+# install flash attn
+#activate your venv/conda/uv env
+# assumes torch is already installed
+source /path/to/venv/bin/activate
+./get-flash-attn
