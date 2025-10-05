@@ -307,7 +307,7 @@ def main():
         f"required:{r.required or '—':>12s} | version_ok:{'YES' if r.ok_version else 'NO'}"
         for r in results
     ) + "\n\n--- PyTorch Sanity ---\n" + torch_report + "\n\n" + summary + "\n"
-    write_report("setup_report.txt", report_txt)
+    # write_report("setup_report.txt", report_txt)
 
     # Exit code
     sys.exit(0 if all_ok else 1)
