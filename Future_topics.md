@@ -8,4 +8,5 @@ Resnet (used in Google's MetNet nowcasting project)
 Optimisers (e.g. Adam)
 Polyak averaging (used in MetNet)
 FGN (Functional Generative Networks - Google's latest model)
+More on deconvolution (or decoder layers generally)
 
