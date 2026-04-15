@@ -9,4 +9,9 @@ Optimisers (e.g. Adam)
 Polyak averaging (used in MetNet)
 FGN (Functional Generative Networks - Google's latest model)
 More on deconvolution (or decoder layers generally)
+Convolutional LSTMs
+Autoencoders
+Kolmogorov Arnold networks
+PFNs
+Bayesian inference and optimisation
 
